@@ -1,0 +1,4 @@
+﻿  Exercicio2.c
+c:\users\kakac\desktop\pratica 1\atividade2\exercicio2.c(14): warning C4101: 'Par': variável local não referenciada
+c:\users\kakac\desktop\pratica 1\atividade2\exercicio2.c(15): warning C4101: 'Impar': variável local não referenciada
+  Atividade2.vcxproj -> C:\Users\kakac\Desktop\Pratica 1\Atividade1\Debug\Atividade2.exe
