@@ -1,4 +1,5 @@
 ﻿  Exercicio2.c
-c:\users\kakac\desktop\pratica 1\atividade2\exercicio2.c(14): warning C4101: 'Par': variável local não referenciada
-c:\users\kakac\desktop\pratica 1\atividade2\exercicio2.c(15): warning C4101: 'Impar': variável local não referenciada
-  Atividade2.vcxproj -> C:\Users\kakac\Desktop\Pratica 1\Atividade1\Debug\Atividade2.exe
+f:\documentos\github\pratice1_datastructure\pratica 1\atividade2\exercicio2.c(50): warning C4013: 'imPar' indefinido; assumindo extern retornando int
+f:\documentos\github\pratice1_datastructure\pratica 1\atividade2\exercicio2.c(13): warning C4101: 'Par': variável local não referenciada
+f:\documentos\github\pratice1_datastructure\pratica 1\atividade2\exercicio2.c(14): warning C4101: 'Impar': variável local não referenciada
+  Atividade2.vcxproj -> F:\Documentos\GitHub\Pratice1_dataStructure\Pratica 1\Atividade1\Debug\Atividade2.exe
