@@ -47,12 +47,12 @@ int main(){													// Declaração do metodo principal
 			return 0;										// Finaliza o metodo
 
 		}
-		imPar(N, Aux, &RU);									// Executa o metodo imPar enviando 3 parametros
+		imPar(N, Aux, RU);									// Executa o metodo imPar enviando 3 parametros
 	}
 	return 0;												// Finaliza metodo
 }
 
-int imPar(int numero[], int aux, int *RU) {					// Declara o metodo imPar
+int imPar(int numero[], int aux, int RU) {					// Declara o metodo imPar
 
 	int i = 0,
 		ip = 0,
@@ -64,7 +64,7 @@ int imPar(int numero[], int aux, int *RU) {					// Declara o metodo imPar
 
 		if ((numero[i] % 2) != 0) {							// Verifica se mod do numero em questao é 0 (Par) ou 1 (Impar)
 
-			Impar[ip] = numero[i] * *RU;					// Guarda o numero impar já multiplicado pelo final do RU
+			Impar[ip] = numero[i] * RU;					// Guarda o numero impar já multiplicado pelo final do RU
 			ip++;											// Incrementar mais um no contador
 		} else {
 			Par[p] = numero[i];								// Guarda o numero par

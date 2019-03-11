@@ -1,0 +1,5 @@
+﻿  Atividade4.c
+f:\documentos\github\pratice1_datastructure\atividade1\atividade4\atividade4.c(33): warning C4013: 'calc' indefinido; assumindo extern retornando int
+f:\documentos\github\pratice1_datastructure\atividade1\atividade4\atividade4.c(33): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+f:\documentos\github\pratice1_datastructure\atividade1\atividade4\atividade4.c(47): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Atividade4.vcxproj -> F:\Documentos\GitHub\Pratice1_dataStructure\Atividade1\Debug\Atividade4.exe
